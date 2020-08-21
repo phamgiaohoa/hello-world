@@ -1,0 +1,21 @@
+export const LOG_IN = 'LOG_IN';
+export const LOG_OUT = 'LOG_OUT';
+export const GET_USER = 'GET_USER';
+export const GET_USERCHANGE = 'GET_USERCHANGE';
+
+export const GET_PRODUCT_NEW = 'GET_PRODUCT_NEW';
+export const GET_PRODUCT_HOT_SELLING = 'GET_PRODUCT_HOT_SELLING';
+
+export const GET_CATEGORY = 'GET_CATEGORY';
+
+
+export const ADD_CART_FROM_LOCAL = 'ADD_CART_FROM_LOCAL';
+export const ADD_ITEM_TO_CART = 'ADD_ITEM_TO_CART';
+export const DELETE_ITEM_TO_CART = 'DELETE_ITEM_TO_CART';
+export const DELETE_ONE_ITEM_TO_CART = 'DELETE_ONE_ITEM_TO_CART';
+export const RESET_CART = 'RESET_CART';
+
+export const GET_NOTIFICATION = 'GET_NOTIFICATION';
+
+export const GET_ORDERED = 'GET_ORDERED';
+

@@ -1,0 +1,17 @@
+import FlashScreen from '../Auth/FlashScreen';
+import LoginScreen from '../Auth/LoginScreen';
+import aaa from '../Auth/aaa';
+import MainProject from '../Auth/MainProject';
+import ProfileScreen from '../Profile/ProfileScreen';
+import HomeScreen from '../home/HomeScreen';
+import chitiet from '../home/chitiet';
+import ManagerAddress from '../Profile/ManagerAddress';
+// import address from '../../../asm_phamgiaohoa/src/Profile/address';
+import CartScreen from '../Cart/CartScreen';
+import Cart from '../Cart/Cart';
+import Management from '../Profile/Management';
+import doimatkhau from '../Profile/Management';
+import themdiachi from '../Profile/themdiachi';
+import ShowStudentListActivity from '../home/ShowStudentListActivity';
+import EditStudentRecordActivity from '../home/EditStudentRecordActivity';
+export {FlashScreen, LoginScreen, aaa, MainProject, HomeScreen,doimatkhau, ProfileScreen,CartScreen,Cart,themdiachi, ManagerAddress,chitiet, Management,ShowStudentListActivity, EditStudentRecordActivity};
